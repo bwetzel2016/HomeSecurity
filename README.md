@@ -6,22 +6,25 @@ The home security system monitors motion using a PIR sensor and allows user inte
 
 ## Getting Started
 -Hardware Requirements
+
 -MSP430 Microcontroller (e.g., MSP430G2553)
+
 -16x2 LCD Display
+
 -4x3 Keypad
+
 -PIR Motion Sensor
+
 -Buzzer
+
 -LED
+
 -Resistors
+
 -Connecting wires
+
 -Breadboard or PCB for assembly
 
-### Dependencies
-
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
-- [React Router](https://reactrouter.com/) - Declarative routing for React.
-- [Weatherbit API](https://www.weatherbit.io/) - Weather data API.
-- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling.
 
 
 #Software Requirements
