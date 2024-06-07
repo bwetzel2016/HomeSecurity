@@ -28,7 +28,9 @@ The home security system monitors motion using a PIR sensor and allows user inte
 
 
 #Software Requirements
+
 -Code Composer Studio (CCS) or any compatible IDE for MSP430
+
 -MSP430 driver library
 
 
